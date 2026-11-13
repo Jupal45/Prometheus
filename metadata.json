@@ -1,0 +1,6 @@
+{
+  "name": "Prometheus",
+  "description": "Casillero privado cifrado con acceso en tres fases, galería visual, visor de archiveros ZIP y playlist de música personal en interfaz Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
